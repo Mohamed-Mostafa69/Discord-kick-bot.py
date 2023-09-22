@@ -37,4 +37,4 @@ async def check_genshin_players():
                         print(f"Failed to kick {member}. Error: {e}")
 
 
-bot.run("MTAxNDI1NDM1MjE4MzA4MzEyOA.GX5mHV.4VoK70luj1kOTfn1S90p9SYRvAg7nyuQffQ44A")
+bot.run("")
